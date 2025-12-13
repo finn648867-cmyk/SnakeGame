@@ -30,3 +30,24 @@
 *.exe
 *.out
 *.app
+
+# 查看状态喵
+git status
+
+# 添加修改的文件喵
+git add .
+
+# 提交修改喵
+git commit -m "修改说明喵"
+
+# 推送到GitHub喵
+git push
+
+# 查看提交历史喵
+git log
+
+# 创建新分支喵
+git branch 新功能
+
+# 切换分支喵
+gi
