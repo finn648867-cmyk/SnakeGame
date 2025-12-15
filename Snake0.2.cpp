@@ -147,7 +147,7 @@ class Screen
         return -1;  // 错误值喵
     }
 
-    // 设置地图某位置的类型为
+    // 设置地图某位置的类型
     void SetPixel(Position pos, int type)
     {
         // 检查边界喵
