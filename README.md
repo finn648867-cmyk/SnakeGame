@@ -6,7 +6,7 @@
 
 ```bash
 # 使用g++编译
-g++ -std=c++17 -o3 -march=native -flto -DNDEBUG -o snake snake0.2.cpp
+g++ -std=c++17 -o3 -march=native -flto -DNDEBUG -o snake snake0.3.cpp
 
 # 运行
 ./snake
